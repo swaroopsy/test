@@ -5,6 +5,6 @@
 | :-----: | :-: | 
 
 
-<p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/swaroopsy/test/master/iGoat1.png">
+<p align="right">
+  <img src="https://raw.githubusercontent.com/swaroopsy/test/master/iGoat1.png">
 </p>
