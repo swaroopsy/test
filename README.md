@@ -1,10 +1,8 @@
 
 
-Solarized dark             |  Solarized Ocean
+Summary            |  Snapshot
 :-------------------------:|:-------------------------:
-!(test  |  ![](https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png)
-
-<p style='color:red'>This is some red text.</p>
+![test](https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png)  |  ![](https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png)
 
 
 
