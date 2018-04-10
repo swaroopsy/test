@@ -1,6 +1,7 @@
 # test
 
-<span style="color: green"> Some green text </span>
+<p style='color:red'>This is some red text.</p>
+
 
 
 <p align="right">
