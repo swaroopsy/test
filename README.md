@@ -6,6 +6,4 @@
 
 
 
-| Attempt | #1  |
-| :-----: | :-: | 
-| Seconds | 301 | 
+| Attempt 0 | #1  |
