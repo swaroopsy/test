@@ -2,13 +2,9 @@
 
 Summary            |  Snapshot
 :-------------------------:|:-------------------------:
-![test](https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png)  |  ![](https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png)
+!(https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png)  |  ![](https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png)
 
 
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png">
-</p>
 
 ### Vulnerabilities Covered (version 1.0): ###
 * __OWASP TOP 10 Mobile__
