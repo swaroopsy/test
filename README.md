@@ -6,5 +6,5 @@
 
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/swaroopsy/test/master/iGoat1.png">
+  <img src="https://raw.githubusercontent.com/swaroopsy/test/master/iGoat_2.png">
 </p>
