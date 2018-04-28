@@ -7,5 +7,5 @@ __OWASP TOP 10 Mobile__ </br><p align="left">* __Reverse Engineering__</br>* __R
 
 
 ## Demo
-![Demo](https://github.com/swaroopsy/test/blob/master/OWASP_iGoat_Demo.gif?raw=true)
+![Demo](https://github.com/swaroopsy/test/blob/master/OWASP_iGoat_Demo.gif?raw=true =250x250 )
 
