@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/swaroopsy/test/blob/master/h1.gif?raw=true" width="240" title="iGoat App">>
+  <img width="460" height="300" src="https://github.com/swaroopsy/test/blob/master/h1.gif?raw=true" title="iGoat App">>
 </p>
 
 
