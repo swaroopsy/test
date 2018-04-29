@@ -7,8 +7,6 @@ __OWASP TOP 10 Mobile__ </br><p align="left">* __Reverse Engineering__</br>* __R
 
 
 
-[](https://github.com/swaroopsy/test/blob/master/h1.gif = 250x250)
-
 
 ## Demo
 ![Demo]("https://github.com/swaroopsy/test/blob/master/Image.png?raw=true" width="200" height="400" )
