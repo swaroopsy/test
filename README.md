@@ -7,7 +7,7 @@ __OWASP TOP 10 Mobile__ </br><p align="left">* __Reverse Engineering__</br>* __R
 
 
 OWASP iGoat (Objective C) has been presented at:
-[![AppSec USA 2017](https://img.shields.io/badge/AppSec%20USA-2017-red.svg)](https://appsecusa2017.sched.com/event/B2Xk/igoat-a-self-learning-tool-for-ios-app-pentesting-and-security) <br> [![c0c0n 2017](https://img.shields.io/badge/c0c0n-2017-red.svg)](http://is-ra.org/c0c0n/2017/agenda)&nbsp;[![SEC-T 2017](https://img.shields.io/badge/SEC--T-2017-red.svg)](https://www.sec-t.org/archive/2017_events/schedule/) &nbsp; [![BruCON 2017](https://img.shields.io/badge/BruCON-2017-red.svg)](https://2017.brucon.org/index.php/Practical_iOS_App_Exploitation_and_Defense_using_iGoat)&nbsp; [![Bugcrowd Levelup 2017](https://img.shields.io/badge/BugcrowdLevelUp-2017-red.svg)](https://forum.bugcrowd.com/t/levelup-2017-discussion-swaroop-owasp-igoat/3052)
+[![AppSec USA 2017](https://img.shields.io/badge/AppSec%20USA-2017-red.svg)](https://appsecusa2017.sched.com/event/B2Xk/igoat-a-self-learning-tool-for-ios-app-pentesting-and-security) &nbsp; [![c0c0n 2017](https://img.shields.io/badge/c0c0n-2017-red.svg)](http://is-ra.org/c0c0n/2017/agenda)&nbsp;[![SEC-T 2017](https://img.shields.io/badge/SEC--T-2017-red.svg)](https://www.sec-t.org/archive/2017_events/schedule/) &nbsp; [![BruCON 2017](https://img.shields.io/badge/BruCON-2017-red.svg)](https://2017.brucon.org/index.php/Practical_iOS_App_Exploitation_and_Defense_using_iGoat)&nbsp; [![Bugcrowd Levelup 2017](https://img.shields.io/badge/BugcrowdLevelUp-2017-red.svg)](https://forum.bugcrowd.com/t/levelup-2017-discussion-swaroop-owasp-igoat/3052)
 
 
 
