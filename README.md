@@ -18,7 +18,6 @@ OWASP iGoat (Objective C) has been presented at:
 
 [![Bugcrowd Levelup 2017](https://img.shields.io/badge/BugcrowdLevelUp-2017-red.svg)](https://forum.bugcrowd.com/t/levelup-2017-discussion-swaroop-owasp-igoat/3052)
 
-
 [![c0c0n 2017](https://img.shields.io/badge/c0c0n-2017-red.svg)](http://is-ra.org/c0c0n/2017/agenda)
 
 
